@@ -1,10 +1,10 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,15,20,24&text=Utkarsh%20Jha&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Lead%20Data%20%26%20AI%20Engineer%20%7C%20Enterprise%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,15,20,24&text=Utkarsh%20Jha&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Lead%20AI%20Engineer%20%7C%20Enterprise%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/ujayjumpman">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Lead+Data+%26+AI+Engineer;Enterprise+AI+%7C+IBM+Watsonx+Orchestrate;NL-to-SQL+%7C+RAG+%7C+Multi-Agent+Systems;FastAPI+%2B+Python+%7C+Production+AI+Pipelines" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Lead+AI+Engineer;Enterprise+AI+%7C+IBM+Watsonx+Orchestrate;NL-to-SQL+%7C+RAG+%7C+Multi-Agent+Systems;FastAPI+%2B+Python+%7C+Production+AI+Pipelines" alt="typing" />
 </a>
 
 <br/>
@@ -40,7 +40,7 @@
 <!-- ====================== ABOUT ====================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About
 
-I'm a **Lead Data & AI Engineer** focused on shipping **enterprise-grade AI systems** to production — not prototypes. My day-to-day is designing and operating the infrastructure that makes large language models reliable inside real businesses: **natural-language-to-SQL pipelines**, **RAG architectures**, and **multi-agent orchestration** built on **IBM Watsonx Orchestrate, watsonx.ai, and watsonx.data**.
+I'm a **Lead AI Engineer** focused on shipping **enterprise-grade AI systems** to production — not prototypes. My day-to-day is designing and operating the infrastructure that makes large language models reliable inside real businesses: **natural-language-to-SQL pipelines**, **RAG architectures**, and **multi-agent orchestration** built on **IBM Watsonx Orchestrate, watsonx.ai, and watsonx.data**.
 
 I think in systems and I care about the unglamorous parts that decide whether AI actually works in production — **anti-hallucination guardrails, query security, schema integrity, observability, and agent drift control**. My core engineering surface is **Python + FastAPI** for AI services, backed by SQL data layers and orchestration tooling.
 
@@ -137,10 +137,10 @@ A deliberately minimal experiment — the value is in how much interaction fits 
 <!-- ====================== EXPERIENCE ====================== -->
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Experience
 
-### Lead Data & AI Engineer · Gadiel Technologies
+### Lead AI Engineer · Gadiel Technologies
 `New Delhi, India`
 
-Lead the data & AI engineering function delivering enterprise AI systems for an on-site enterprise client (Wave Group). Own architecture, delivery, and code quality end to end, and manage a team of engineers.
+Lead the AI engineering function delivering enterprise AI systems for an on-site enterprise client (Wave Group). Own architecture, delivery, and code quality end to end, and manage a team of engineers.
 
 **Scope of work**
 - Architected and shipped a **CRM AI agent** on IBM Watsonx Orchestrate with anti-hallucination guardrails, fiscal-year logic, funnel routing, and structured table formatting.
@@ -163,7 +163,7 @@ Lead the data & AI engineering function delivering enterprise AI systems for an 
 | 🧩 **IBM Watsonx Certified** | Watsonx.data L3 · MAS L1 / L2 · MREF L2 |
 | 🚀 **Production AI Delivery** | Shipped enterprise CRM agent + NL-to-SQL service to a live client environment |
 | 🧠 **Data Integrity at Scale** | Built unified 95-column / 38,815-row procurement fact table across 6 SAP sources |
-| 👥 **Engineering Leadership** | Lead and mentor a data & AI engineering team |
+| 👥 **Engineering Leadership** | Lead and mentor an AI engineering team |
 
 </div>
 
